@@ -1,0 +1,25 @@
+.help {
+    background-color: blueviolet;
+}
+.support {
+    background-color: firebrick
+}
+.bassey {
+    background-color: limegreen;
+}
+#guy {
+    background-color: indianred;
+}
+.you {
+    text-align:center;
+    background-color: gray;
+}
+input{
+    padding: 14px;
+    width: 30%;
+    height: 2mm;
+}
+
+#html, #css, #javascript{
+    width: 1%;
+}
