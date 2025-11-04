@@ -1,0 +1,18 @@
+.borders{
+    border-color: lightseagreen, blueviolet;
+    border-width: 90px,30px,20,90px;
+    border-style: solid;
+    width: 80px;
+    height: 79px
+}
+.hello{
+    width: 320px ;
+  height: 50px ;
+  padding: 10px ;
+  border: 45px solid gray ;
+  margin: auto ;
+}
+
+*{
+    box-sizing: border-box;
+}
